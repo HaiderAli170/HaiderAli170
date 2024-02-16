@@ -9,8 +9,7 @@
 📫 How to reach me: (Haiderium8@gmail.com, [LinkedIn profile](https://www.linkedin.com/in/haider-ali-849814276/).)
 
 😄 Pronouns: (Your preferred pronouns, He.)
-<a href="https://app.daily.dev/haiderali54"><img src="https://api.daily.dev/devcards/v2/SagjFvsF0T4ZAhWN18jMv.png?type=wide&r=751" width="652" alt="Haider Ali's Dev Card"/></a>
-
+<a href="https://app.daily.dev/haiderali54"><img src="https://api.daily.dev/devcards/v2/SagjFvsF0T4ZAhWN18jMv.png?type=default&r=thy" width="356" alt="Haider Ali's Dev Card"/></a>
 <!---
 HaiderAli170/HaiderAli170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
