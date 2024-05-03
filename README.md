@@ -1,5 +1,5 @@
 👋 Hi, I’m @HaiderAli170
-<a href="https://app.daily.dev/haiderali54"><img src="https://api.daily.dev/devcards/v2/SagjFvsF0T4ZAhWN18jMv.png?type=wide&r=fw8" width="652" alt="Haider Ali's Dev Card"/></a>
+<a href="https://app.daily.dev/haiderali54"><img src="https://api.daily.dev/devcards/v2/SagjFvsF0T4ZAhWN18jMv.png?type=default&r=0el" width="356" alt="Haider Ali's Dev Card"/></a>
 
 👀 I’m interested in web development, with a particular focus on building dynamic and interactive user interfaces. I have a passion for working with React and JavaScript, and I'm currently exploring the powerful combination of React with TypeScript to create more robust and type-safe applications.
 
