@@ -1,3 +1,4 @@
+
 # Hi, I'm Haider Ali 👋
 
 **Full-Stack Developer | AI Solutions Architect | QA Lead**
@@ -23,7 +24,7 @@ I specialize in building production-grade SaaS platforms, multi-tenant web appli
 
 ### 📫 How to Reach Me
 - **Email:** Haiderium8@gmail.com
-- **Portfolio:** [mywebsite-alpha-liard-38.vercel.app](https://mywebsite-alpha-liard-38.vercel.app)
-- **LinkedIn:** *(Add your LinkedIn URL here)*
+- **Portfolio:** [[mywebsite-alpha-liard-38.vercel.app](https://mywebsite-alpha-liard-38.vercel.app/)]
+- **LinkedIn:** https://www.linkedin.com/in/haider-ali-849814276/
 
 😄 **Pronouns:** He/Him
